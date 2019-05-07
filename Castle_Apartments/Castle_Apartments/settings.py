@@ -37,6 +37,19 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'AddRealEstate.apps.AddrealestateConfig',
+    'AddRealEstateConfirmation.apps.AddrealestateconfirmationConfig',
+    'Confirmation.apps.ConfirmationConfig',
+    'Employees.apps.EmployeesConfig',
+    'Home.apps.HomeConfig',
+    'Login.apps.LoginConfig',
+    'PaymentInformation.apps.PaymentinformationConfig',
+    'Pending.apps.PendingConfig',
+    'PendingInformation.apps.PendinginformationConfig',
+    'RealEstate.apps.RealestateConfig',
+    'RealEstateInformation.apps.RealestateinformationConfig',
+    'Signup.apps.SignupConfig',
+    'YourRealEstate.apps.YourrealestateConfig',
 ]
 
 MIDDLEWARE = [
