@@ -4,7 +4,7 @@ from Signup.models import Members
 
 
 class RealEstateImages(models.Model):
-    images = models.CharField(max_length=9999)
+    image1 = models.CharField(max_length=9999)
 
 
 class RealEstates(models.Model):
