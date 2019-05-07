@@ -50,7 +50,8 @@ INSTALLED_APPS = [
     'RealEstate.apps.RealEstateConfig',
     'RealEstateInformation.apps.RealEstateInformationConfig',
     'Signup.apps.SignupConfig',
-    'YourRealEstate.apps.YourRealEstateConfig',]
+    'YourRealEstate.apps.YourRealEstateConfig',
+]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
