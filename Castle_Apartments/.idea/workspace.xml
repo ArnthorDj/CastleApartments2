@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="234cac25-311a-47d9-872c-4011e350b3f1" name="Default Changelist" comment="">
-<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/venvmac/bin/activate" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venvmac/bin/activate.csh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venvmac/bin/activate.fish" afterDir="false" />
@@ -4368,9 +4367,6 @@
       <change afterPath="$PROJECT_DIR$/venvmac/lib/python3.7/site-packages/sqlparse/tokens.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venvmac/lib/python3.7/site-packages/sqlparse/utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venvmac/pyvenv.cfg" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -4387,11 +4383,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Castle_Apartments/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="408">
-=======
+
             <state relative-caret-position="360">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
               <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
               <folding>
                 <element signature="e#641#673#0" expanded="true" />
@@ -4403,11 +4396,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YourRealEstate/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="68">
-=======
             <state relative-caret-position="60">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
               <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
               <folding>
                 <element signature="e#1#29#0" expanded="true" />
@@ -4419,13 +4408,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YourRealEstate/views.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="85">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-=======
+
             <state relative-caret-position="30">
               <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -4445,11 +4430,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddRealEstateConfirmation/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="85">
-=======
             <state relative-caret-position="75">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
               <caret line="6" column="1" selection-end-line="6" selection-end-column="1" />
               <folding>
                 <element signature="e#1#29#0" expanded="true" />
@@ -4461,11 +4442,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddRealEstateConfirmation/views.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="34">
-=======
             <state relative-caret-position="30">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
               <caret line="3" selection-end-line="6" selection-end-column="98" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -4477,11 +4454,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddRealEstate/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="85">
-=======
             <state relative-caret-position="75">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
               <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding>
                 <element signature="e#1#29#0" expanded="true" />
@@ -4493,11 +4466,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AddRealEstate/views.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="85">
-=======
             <state relative-caret-position="75">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
               <caret line="6" column="70" selection-end-line="6" selection-end-column="86" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -4509,11 +4478,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Employees/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="17">
-=======
             <state relative-caret-position="15">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
               <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding>
                 <element signature="e#1#29#0" expanded="true" />
@@ -4525,11 +4490,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Employees/views.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="34">
-=======
             <state relative-caret-position="30">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
               <caret line="3" selection-end-line="6" selection-end-column="82" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -4670,20 +4631,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557146662956</updated>
       <workItem from="1557146665642" duration="5026000" />
-<<<<<<< HEAD
-      <workItem from="1557153809974" duration="766000" />
-=======
       <workItem from="1557153882849" duration="258000" />
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="5792000" />
-=======
     <option name="totallyTimeSpent" value="5284000" />
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -4695,16 +4648,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
     <frame x="57" y="-7" width="1486" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23809524" />
-=======
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23748212" />
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -4718,11 +4665,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2141901" />
-=======
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.21401274" />
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32924962" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -4960,11 +4903,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Castle_Apartments/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="408">
-=======
         <state relative-caret-position="360">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
           <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
           <folding>
             <element signature="e#641#673#0" expanded="true" />
@@ -4974,11 +4913,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/YourRealEstate/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="68">
-=======
         <state relative-caret-position="60">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
           <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
           <folding>
             <element signature="e#1#29#0" expanded="true" />
@@ -4988,11 +4923,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddRealEstateConfirmation/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="85">
-=======
         <state relative-caret-position="75">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
           <caret line="6" column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
             <element signature="e#1#29#0" expanded="true" />
@@ -5002,11 +4933,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddRealEstateConfirmation/views.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="34">
-=======
         <state relative-caret-position="30">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
           <caret line="3" selection-end-line="6" selection-end-column="98" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -5016,11 +4943,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddRealEstate/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="85">
-=======
         <state relative-caret-position="75">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
             <element signature="e#1#29#0" expanded="true" />
@@ -5030,11 +4953,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddRealEstate/views.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="85">
-=======
         <state relative-caret-position="75">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
           <caret line="6" column="70" selection-end-line="6" selection-end-column="86" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -5044,11 +4963,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Employees/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="17">
-=======
         <state relative-caret-position="15">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding>
             <element signature="e#1#29#0" expanded="true" />
@@ -5058,11 +4973,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Employees/views.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="34">
-=======
         <state relative-caret-position="30">
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
           <caret line="3" selection-end-line="6" selection-end-column="82" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -5075,13 +4986,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/YourRealEstate/views.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="85">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-=======
         <state relative-caret-position="30">
           <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
->>>>>>> a7f1de6604969bba98ce819e4e48bcc4949f2fbf
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
