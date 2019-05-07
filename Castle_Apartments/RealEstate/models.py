@@ -1,5 +1,5 @@
 from django.db import models
-from ..Signup.models import Members
+from ../Signup.models import Members
 
 
 class RealEstateImages(models.Model):
