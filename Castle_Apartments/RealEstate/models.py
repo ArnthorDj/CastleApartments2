@@ -1,4 +1,5 @@
 from django.db import models
+<<<<<<< HEAD
 from Signup.models import Members
 
 
@@ -17,3 +18,7 @@ class RealEstates(models.Model):
 class RealEstateImages(models.Model):
     real_estate_id = models.ForeignKey(RealEstates, on_delete=models.CASCADE)
     image = models.CharField(max_length=9999)
+=======
+
+# Create your models here.
+>>>>>>> origin/master2
