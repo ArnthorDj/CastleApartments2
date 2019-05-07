@@ -1,0 +1,91 @@
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(https://cdn.pastemagazine.com/www/blogs/lists/2010/05/12/phineas.jpg, Benjamín, Aage, 6942051, benjamin18@ru.is, BAage, BubbiMortens);
+
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(https://i.pinimg.com/originals/ce/5f/53/ce5f53437e291c48705428721406985c.jpg, Arnþór, Jónasson, 7745829, arnthor18@ru.is, arnthor18, 123abc);
+
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(https://list.lisimg.com/image/1745733/500full.jpg, Björk, Sigurjónsdóttir, 7756984, bjorks18@ru.is, bjork, furugrund);
+
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzcJT1jKudRnb_5dLK2Mlut4He8P3kcnasegCxgCdmUhMAjAf, María, Karlsdóttir, 6914687, mariak18@ru.is, mariarun, midgardur);
+
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJdoGsV-jeplGTUX_EfYFkn5_gTSifPIdOJAUoHPaV1kjT_Hz, Sandra, Arnarsdottir, 8997423, sandraa18@ru,is, sandraa, akureyri);
+
+##################################################################################
+
+INSERT INTO sign_up_Members(profile_image, first_name, last_name, phone, email, username, password)
+VALUES(https://www.listchallenges.com/f/items/5ba033ab-232a-47a5-99f9-c87ace394823.jpg, Arnar, Leifsson, 8235194, arnarl@ru.is, arnarl, ekkikopavogur);
+
+INSERT INTO sign_up_Members(profile_image, first_name, last_name, phone, email, username, password)
+VALUES(http://clipart-library.com/images/kTKoj7jpc.png, Björgvin, Björgvinsson, 7781396, bjorgvinb@ru.is, bjorgvin, kopavogur);
+
+INSERT INTO sign_up_Members(profile_image, first_name, last_name, phone, email, username, password)
+VALUES(https://s3.amazonaws.com/37assets/svn/1065-IMG_2529.jpg, John, Doe, 8991122, john.doe@gmail.com, johndoe, doe1);
+
+##################################################################################
+
+INSERT INTO real_estate_RealEstateImages(images)
+VALUES([https://ap.rdcpix.com/501249924/c7fa00bf2498597ae60a8cd66e148001l-m0xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1770945604/c7fa00bf2498597ae60a8cd66e148001l-m16xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/383758964/c7fa00bf2498597ae60a8cd66e148001l-m20xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/2034823415/c7fa00bf2498597ae60a8cd66e148001l-m25xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/853991024/c7fa00bf2498597ae60a8cd66e148001l-m29xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/146734690/c7fa00bf2498597ae60a8cd66e148001l-m46xd-w1020_h770_q80.jpg])
+
+INSERT INTO real_estate_RealEstateImages(images)
+VALUES([https://ap.rdcpix.com/375584065/8142f5e6f43344035a98d9240c9716f8l-m0xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1461262583/8142f5e6f43344035a98d9240c9716f8l-m7xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/640626900/8142f5e6f43344035a98d9240c9716f8l-m10xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/156438990/8142f5e6f43344035a98d9240c9716f8l-m12xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1431451070/8142f5e6f43344035a98d9240c9716f8l-m16xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/884656530/8142f5e6f43344035a98d9240c9716f8l-m20xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1005427264/8142f5e6f43344035a98d9240c9716f8l-m25xd-w1020_h770_q80.jpg])
+
+INSERT INTO real_estate_RealEstateImages(images)
+VALUES([https://ap.rdcpix.com/3925831797/7d8ace527b485ebfc10c3b8655cdba46l-m22xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/2180577448/7d8ace527b485ebfc10c3b8655cdba46l-m20xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/3222069061/7d8ace527b485ebfc10c3b8655cdba46l-m13xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1202574675/7d8ace527b485ebfc10c3b8655cdba46l-m10xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1967997192/7d8ace527b485ebfc10c3b8655cdba46l-m8xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/146782470/7d8ace527b485ebfc10c3b8655cdba46l-m6xd-w1020_h770_q80.jpg])
+
+INSERT INTO real_state_RealEstateImages(images)
+VALUES([https://ap.rdcpix.com/1092539459/9c5217473503a8b0ee3505023518f417l-m0xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1918243369/9c5217473503a8b0ee3505023518f417l-m4xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/331620119/9c5217473503a8b0ee3505023518f417l-m10xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1212682982/9c5217473503a8b0ee3505023518f417l-m17xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1154384967/9c5217473503a8b0ee3505023518f417l-m33xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/230390555/9c5217473503a8b0ee3505023518f417l-m39xd-w1020_h770_q80.jpg])
+
+INSERT INTO real_state_RealEstateImages(images)
+VALUES([https://ap.rdcpix.com/1678260231/b16bbdb5909a2736626af4ac7c02c2c0l-m0xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/491078998/b16bbdb5909a2736626af4ac7c02c2c0l-m4xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/575038289/b16bbdb5909a2736626af4ac7c02c2c0l-m9xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/911016017/b16bbdb5909a2736626af4ac7c02c2c0l-m14xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1614005613/b16bbdb5909a2736626af4ac7c02c2c0l-m21xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/2087087506/b16bbdb5909a2736626af4ac7c02c2c0l-m22xd-w1020_h770_q80.jpg])
+
+INSERT INTO real_state_RealEstateImages(images)
+VALUES([https://ap.rdcpix.com/753259499/325c963ed527941afe0e6e3a4c5b13efl-m2xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1424858804/325c963ed527941afe0e6e3a4c5b13efl-m16xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1135296650/325c963ed527941afe0e6e3a4c5b13efl-m20xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/167638297/325c963ed527941afe0e6e3a4c5b13efl-m23xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1355191003/325c963ed527941afe0e6e3a4c5b13efl-m28xd-w1020_h770_q80.jpg, https://ap.rdcpix.com/1102485961/325c963ed527941afe0e6e3a4c5b13efl-m32xd-w1020_h770_q80.jpg])
+
+##################################################################################
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(1, Aðalstræti 93, Kópavogur, 200, 494, 4, Single Family Home, 51000000, Queen Anne, True)
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(2, Suðurstrandavegur 35, 300, Akranes, 344, 4, Single Family Home, 199000000, David Hewes, True)
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(3, Fögruakrar 29, Reykjavík, 108, 624, 6, Single Family Home, 124000000, James Baxter, True)
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(4, Skógarstræti 6, Selfoss, 800, 660, 5, Single Family Home, 62000000, Frank B. Whiting, True)
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(5, Kreppuvegur 1, Mosfellsbær, 270, 480, 7, Single Family Home, 230000000, Kate Leonard, True)
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(6, Uglugata 21, Lækjargata 4, Hvammstangi, 530, 400, 4, Single Family Home, 99000000, Jana Bantz, True)
+
+###################################################################################
+
+INSERT INTO Purchases(buyer_id, seller_id, real_estate_id, card_information_id)
+VALUES(2, 2, 3, 1)
+
+INSERT INTO Purchases(buyer_id, seller_id, real_estate_id, card_information_id)
+VALUES(1, 4, 6, 2)
+
+INSERT INTO Purchases(buyer_id, seller_id, real_estate_id, card_information_id)
+VALUES(3, 5, 1, 3)
+
+###################################################################################
+
+INSERT INTO payment_information_CreditCard(card_number, month, year, cvc)
+VALUES(5597265775123224, 02, 2020, 343)
+
+INSERT INTO payment_information_CreditCard(card_number, month, year, cvc)
+VALUES(4167895423856578, 11, 2022, 495)
+
+INSERT INTO payment_information_CreditCard(card_number, month, year, cvc)
+VALUES(6974562498462459, 10, 2023, 564)
+
+
+
+
