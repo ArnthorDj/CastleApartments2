@@ -1,10 +1,7 @@
 from django.db import models
-<<<<<<< HEAD
 
 # Create your models here.
-=======
 from Signup.models import Members
-
 
 class RealEstates(models.Model):
     street = models.CharField(max_length=255)
@@ -21,4 +18,3 @@ class RealEstates(models.Model):
 class RealEstateImages(models.Model):
     real_estate_id = models.ForeignKey(RealEstates, on_delete=models.CASCADE)
     image = models.CharField(max_length=9999)
->>>>>>> benjamin2
