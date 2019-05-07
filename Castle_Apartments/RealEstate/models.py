@@ -1,9 +1,14 @@
 from django.db import models
-from ..Signup.models import Members
+<<<<<<< HEAD
+from ../Signup.models import Members
+=======
+
+from Signup.models import Members
+>>>>>>> 1c143b2250aa6071084feb571002e8dbc879024d
 
 
 class RealEstateImages(models.Model):
-    images = models.CharField(max_length=9999)
+    image1 = models.CharField(max_length=9999)
 
 
 class RealEstates(models.Model):

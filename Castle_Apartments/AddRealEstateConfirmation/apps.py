@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class AddrealestateconfirmationConfig(AppConfig):
+class AddRealEstateConfirmationConfig(AppConfig):
     name = 'AddRealEstateConfirmation'
