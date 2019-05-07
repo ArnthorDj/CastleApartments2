@@ -1,5 +1,10 @@
 from django.db import models
+<<<<<<< HEAD
 from ../Signup.models import Members
+=======
+
+from Signup.models import Members
+>>>>>>> 1c143b2250aa6071084feb571002e8dbc879024d
 
 
 class RealEstateImages(models.Model):
