@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'AddRealEstate.apps.AddRealEstateConfig',
     'AddRealEstateConfirmation.apps.AddRealEstateConfirmationConfig',
     'Confirmation.apps.ConfirmationConfig',
-    'Employees.apps.EmployeesConfig',
     'Home.apps.HomeConfig',
     'Login.apps.LoginConfig',
     'PaymentInformation.apps.PaymentInformationConfig',
@@ -47,6 +46,8 @@ INSTALLED_APPS = [
     'RealEstateInformation.apps.RealEstateInformationConfig',
     'Signup.apps.SignupConfig',
     'YourRealEstate.apps.YourRealEstateConfig',
+    'Employees.apps.EmployeesConfig',
+    'Purchases.apps.PurchasesConfig',
 ]
 
 MIDDLEWARE = [
@@ -86,8 +87,12 @@ WSGI_APPLICATION = 'Castle_Apartments.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'shlufibm',
+        'USER': 'shlufibm',
+        'PASSWORD': '8qSJgADUxan1Swf94FcNjap_eAMZhAIm',
+        'HOST': 'balarama.db.elephantsql.com',
+        'PORT': 5432,
     }
 }
 
