@@ -37,10 +37,20 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'AddRealEstate.apps.AddrealestateConfig',
-    'RealEstate.apps.RealestateConfig',
-    'Signup.apps.SignupConfig'
-]
+    'AddRealEstate.apps.AddRealEstateConfig',
+    'AddRealEstate.apps.AddRealEstateConfig',
+    'AddRealEstateConfirmation.apps.AddRealEstateConfirmationConfig',
+    'Confirmation.apps.ConfirmationConfig',
+    'Employees.apps.EmployeesConfig',
+    'Home.apps.HomeConfig',
+    'Login.apps.LoginConfig',
+    'PaymentInformation.apps.PaymentInformationConfig',
+    'Pending.apps.PendingConfig',
+    'PendingInformation.apps.PendingInformationConfig',
+    'RealEstate.apps.RealEstateConfig',
+    'RealEstateInformation.apps.RealEstateInformationConfig',
+    'Signup.apps.SignupConfig',
+    'YourRealEstate.apps.YourRealEstateConfig',]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
