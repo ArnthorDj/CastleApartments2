@@ -1,0 +1,85 @@
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(____, Benjamín, Aage, 6942051, benjamin18@ru.is, BAage, BubbiMortens);
+
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(____, Arnþór, Jónasson, 7745829, arnthor18@ru.is, arnthor18, 123abc);
+
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(____, Björk, Sigurjónsdóttir, 7756984, bjorks18@ru.is, bjork, furugrund);
+
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(____, María, Karlsdóttir, 6914687, mariak18@ru.is, mariarun, midgardur);
+
+INSERT INTO employees_Employees (profile_image, first_name, last_name, phone, email, username, password) 
+VALUES(____, Sandra, Arnarsdottir, 8997423, sandraa18@ru,is, sandraa, akureyri);
+
+##################################################################################
+
+INSERT INTO sign_up_Members(profile_image, first_name, last_name, phone, email, username, password)
+VALUES(____, Arnar, Leifsson, 8235194, arnarl@ru.is, arnarl, ekkikopavogur);
+
+INSERT INTO sign_up_Members(profile_image, first_name, last_name, phone, email, username, password)
+VALUES(____, Björgvin, Björgvinsson, 7781396, bjorgvinb@ru.is, bjorgvin, kopavogur);
+
+##################################################################################
+
+INSERT INTO real_estate_RealEstateImages(images)
+VALUES(______)
+
+INSERT INTO real_estate_RealEstateImages(images)
+VALUES(______)
+
+INSERT INTO real_estate_RealEstateImages(images)
+VALUES(______)
+
+INSERT INTO real_state_RealEstateImages(images)
+VALUES(______)
+
+INSERT INTO real_state_RealEstateImages(images)
+VALUES(______)
+
+INSERT INTO real_state_RealEstateImages(images)
+VALUES(______)
+
+##################################################################################
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(______)
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(______)
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(______)
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(______)
+
+INSERT INTO real_estate_RealEstates(images, street, city, zip_code, size, bedrooms, type, price, seller, on_sale)
+VALUES(______)
+
+###################################################################################
+
+INSERT INTO Purchases(buyer_id, seller_id, real_estate_id, card_information)
+VALUES(_______)
+
+INSERT INTO Purchases(buyer_id, seller_id, real_estate_id, card_information)
+VALUES(_______)
+
+INSERT INTO Purchases(buyer_id, seller_id, real_estate_id, card_information)
+VALUES(_______)
+
+###################################################################################
+
+INSERT INTO payment_information_CreditCard(card_number, month, year, cvc)
+VALUES(_______)
+
+INSERT INTO payment_information_CreditCard(card_number, month, year, cvc)
+VALUES(_______)
+
+INSERT INTO payment_information_CreditCard(card_number, month, year, cvc)
+VALUES(_______)
+
+
+
+
